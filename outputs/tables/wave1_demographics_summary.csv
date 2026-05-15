@@ -1,0 +1,12 @@
+metric,value
+sample_size,3510.0
+mean_age,48.79
+median_age,50.0
+min_age,18.0
+max_age,93.0
+n_gender_categories,2.0
+n_race_categories,5.0
+n_education_categories,14.0
+n_income_categories,21.0
+n_employment_categories,7.0
+n_region_categories,9.0

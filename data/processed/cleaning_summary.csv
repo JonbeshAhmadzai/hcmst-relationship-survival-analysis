@@ -1,0 +1,7 @@
+dataset,n_rows,n_columns
+raw_full_dataset,3510,725
+selected_variables_dataset,3510,35
+wave1_relationship_sample,2862,35
+wave1_cleaned,2862,39
+wave1_analysis_ready,2862,25
+wave1_ml_ready,2862,13

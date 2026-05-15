@@ -1,0 +1,6 @@
+model,accuracy,precision,recall,f1,roc_auc
+Model 1: meeting_online_only,0.894,0.894,1.0,0.944,0.631
+Model 2: + demographics,0.894,0.894,1.0,0.944,0.513
+Model 3: + relationship_structure,0.88,0.893,0.984,0.936,0.658
+Model 4: + relationship_quality,0.874,0.892,0.978,0.933,0.678
+Naive majority baseline,0.894,0.894,1.0,0.944,0.5

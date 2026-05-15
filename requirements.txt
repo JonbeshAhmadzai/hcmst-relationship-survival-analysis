@@ -1,0 +1,22 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+pyreadstat>=1.2          # Read SPSS .sav files
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.15
+
+# Machine Learning & Clustering
+scikit-learn>=1.3
+scipy>=1.11
+
+# Jupyter
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.0
+
+# Optional but recommended
+yellowbrick>=1.5         # ML visualization (elbow, silhouette plots)
+adjustText>=0.8          # Better label placement on plots
