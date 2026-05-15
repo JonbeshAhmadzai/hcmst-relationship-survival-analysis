@@ -2,8 +2,6 @@
 
 Portfolio data science project using the **How Couples Meet and Stay Together (HCMST) 2017-2022** longitudinal survey to study how couples meet, how relationship profiles differ, and which baseline characteristics predict whether couples remain together over time.
 
-**Author:** Jonbesh Ahmadzai
-
 The project combines exploratory analysis, data cleaning, unsupervised clustering, and supervised modeling to answer a practical question relevant to online dating platforms:
 
 > Does meeting online predict long-term relationship survival, or do relationship quality and structure matter more?
@@ -377,3 +375,7 @@ Possible next steps:
 This project shows that meeting online has some predictive relationship with long-term survival, but it is not the main story. Relationship quality and relationship structure provide stronger signals.
 
 In practical terms, the findings suggest that successful long-term relationships depend less on the meeting channel itself and more on compatibility, commitment, and relationship dynamics after the match.
+
+## Author
+
+Jonbesh Ahmadzai
